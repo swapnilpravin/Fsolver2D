@@ -1,0 +1,17 @@
+Lx,100e-6
+Ly,20e-6
+dx,0.4e-6
+dy,0.4e-6
+dt,1e-7
+nt,100000
+nit,100
+rho,1000
+nu,1e-6
+omega_P,0.5
+omega_U,0.2
+omega_V,0.2
+tol,1e-6
+U0,2e-3
+nLog,100
+nWrite,1000
+RADIUS,3e-6
